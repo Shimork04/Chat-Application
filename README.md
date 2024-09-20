@@ -1,8 +1,4 @@
-Here's a detailed `README.md` file for your GitHub project, including a description of the project, setup instructions, features, usage, and more.
-
----
-
-# **Java Console-Based Real-Time Chat Application**
+# **Java Based Real-Time Chat Application**
 
 A console-based real-time chat application built using Java and TCP sockets. This application focuses on object-oriented programming (OOP) principles and design patterns, allowing users to create or join chat rooms, send and receive messages in real-time, and privately message other users.
 
