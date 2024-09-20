@@ -46,7 +46,7 @@ chat-application/
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/chat-application.git
+git clone https://github.com/Shimork04/chat-application.git
 cd chat-application
 ```
 
