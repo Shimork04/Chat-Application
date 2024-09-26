@@ -141,6 +141,11 @@ exit
 
 - Chat messages are stored as history, allowing users to see past messages when they rejoin a room.
 
+### Console Output
+
+![image](https://github.com/user-attachments/assets/54129f7a-9b95-455b-85a6-d3a7554ea17c)
+Fig: Shows private message recieved by another user, displays active user's list.
+
 ## **Design Patterns Used**
 
 ### 1. **Singleton Pattern**
